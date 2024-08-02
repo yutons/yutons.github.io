@@ -1,0 +1,24 @@
+﻿{
+  "classes": [
+    {
+      "type_name": "儿童英语启蒙",
+      "type_id": "儿童英语启蒙"
+    },
+    {
+      "type_name": "儿童音乐",
+      "type_id": "儿童音乐"
+    },
+    {
+      "type_name": "悟空识字",
+      "type_id": "识字认字动画合集"
+    },
+    {
+      "type_name": "少儿",
+      "type_id": "CCTV14少儿频道合集"
+    },
+    {
+      "type_name": "学而思",
+      "type_id": "学而思课程"
+    }
+  ]
+}
